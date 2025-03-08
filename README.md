@@ -19,6 +19,4 @@ You can also find my account on competitive programming platforms by searching f
 ## Recent Activities
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 
