@@ -6,9 +6,9 @@
 - ✏️ I sometimes update something interesting on [floating-ocean.github.io](https://floating-ocean.github.io/).
 - 👯 I'm passionate about coding and excited to contribute. Nice to meet you!
 
-<p><img align="left" src="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16" alt="Floating-Ocean" /></p>
+<p><img align="left" height="212" src="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16" alt="Floating-Ocean" /></p>
 
-<p><img align="center" src="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews" alt="Floating-Ocean" /></p>
+<p><img align="center" height="212" src="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews" alt="Floating-Ocean" /></p>
 
 ## Social Informations
 
