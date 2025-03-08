@@ -18,11 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-2. 🎉 Merged PR [#8](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/8) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-3. 🎉 Merged PR [#44](https://github.com/qwedc001/Peeper-Board-Generator/pull/44) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. 💪 Opened PR [#44](https://github.com/qwedc001/Peeper-Board-Generator/pull/44) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. 🎉 Merged PR [#7](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/7) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+1. 🗣 Commented on [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9#issuecomment-2708194673) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+2. ❗ Opened issue [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+3. 🎉 Merged PR [#8](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/8) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+4. 🎉 Merged PR [#44](https://github.com/qwedc001/Peeper-Board-Generator/pull/44) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+5. 💪 Opened PR [#44](https://github.com/qwedc001/Peeper-Board-Generator/pull/44) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 <!--END_SECTION:activity-->
 
 
