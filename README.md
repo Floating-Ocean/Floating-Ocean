@@ -18,5 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/8) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+2. 🎉 Merged PR [#44](https://github.com/qwedc001/Peeper-Board-Generator/pull/44) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. 💪 Opened PR [#44](https://github.com/qwedc001/Peeper-Board-Generator/pull/44) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+4. 🎉 Merged PR [#7](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/7) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+5. 💪 Opened PR [#7](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/7) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+<!--END_SECTION:activity-->
 
 
