@@ -18,11 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/10#issuecomment-2732040088) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-2. 💪 Opened PR [#10](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/10) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-3. 🔒 Closed issue [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-4. 🗣 Commented on [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9#issuecomment-2727573766) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-5. 🗣 Commented on [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9#issuecomment-2708194673) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+1. ❗ Opened issue [#3](https://github.com/Floating-Ocean/Tetris-Project/issues/3) in [Floating-Ocean/Tetris-Project](https://github.com/Floating-Ocean/Tetris-Project)
+2. 🗣 Commented on [#10](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/10#issuecomment-2732040088) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+3. 💪 Opened PR [#10](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/10) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+4. 🔒 Closed issue [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+5. 🗣 Commented on [#9](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/issues/9#issuecomment-2727573766) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
 <!--END_SECTION:activity-->
 
 
