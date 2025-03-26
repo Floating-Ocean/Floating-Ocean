@@ -18,11 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/11) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-2. 🗣 Commented on [#11](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/11#issuecomment-2737144185) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-3. 💪 Opened PR [#11](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/11) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-4. 🎉 Merged PR [#10](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/10) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-5. ❗ Opened issue [#3](https://github.com/Floating-Ocean/Tetris-Project/issues/3) in [Floating-Ocean/Tetris-Project](https://github.com/Floating-Ocean/Tetris-Project)
+1. 💪 Opened PR [#12](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/12) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+2. 🎉 Merged PR [#11](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/11) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+3. 🗣 Commented on [#11](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/11#issuecomment-2737144185) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+4. 💪 Opened PR [#11](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/11) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+5. 🎉 Merged PR [#10](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/10) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
 <!--END_SECTION:activity-->
 
 
