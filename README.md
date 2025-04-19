@@ -18,11 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. 🚀 Published release [v0.0.6](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.6) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
-3. 🚀 Published release [v0.0.5](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.5) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
-4. 🚀 Published release [v0.0.4](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.4) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
-5. 🚀 Published release [v0.0.3](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.3) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
+1. 🔒 Closed issue [#15](https://github.com/Floating-Ocean/OBot-ACM/issues/15) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+2. 🔒 Closed issue [#15](https://github.com/Floating-Ocean/OBot-ACM/issues/15) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. 🎉 Merged PR [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+4. 🗣 Commented on [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17#issuecomment-2816483843) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+5. 💪 Opened PR [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
 
