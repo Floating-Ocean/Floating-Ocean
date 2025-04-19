@@ -18,11 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/Floating-Ocean/OBot-ACM/issues/15) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 💪 Opened PR [#18](https://github.com/Floating-Ocean/OBot-ACM/pull/18) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 2. 🔒 Closed issue [#15](https://github.com/Floating-Ocean/OBot-ACM/issues/15) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. 🎉 Merged PR [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-4. 🗣 Commented on [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17#issuecomment-2816483843) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-5. 💪 Opened PR [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. 🔒 Closed issue [#15](https://github.com/Floating-Ocean/OBot-ACM/issues/15) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+4. 🎉 Merged PR [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+5. 🗣 Commented on [#17](https://github.com/Floating-Ocean/OBot-ACM/pull/17#issuecomment-2816483843) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
 
