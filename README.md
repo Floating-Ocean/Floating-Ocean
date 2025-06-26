@@ -18,11 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/Floating-Ocean/OBot-ACM/pull/26) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. 🚀 Published release [v3.9.0](https://github.com/Floating-Ocean/OBot-ACM/releases/tag/v3.9.0) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. 🎉 Merged PR [#25](https://github.com/Floating-Ocean/OBot-ACM/pull/25) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-4. 🎉 Merged PR [#24](https://github.com/Floating-Ocean/OBot-ACM/pull/24) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-5. 🚀 Published release [v3.8.0](https://github.com/Floating-Ocean/OBot-ACM/releases/tag/v3.8.0) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. ❗ Opened issue [#46](https://github.com/qwedc001/Peeper-Board-Generator/issues/46) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. 💪 Opened PR [#26](https://github.com/Floating-Ocean/OBot-ACM/pull/26) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. 🚀 Published release [v3.9.0](https://github.com/Floating-Ocean/OBot-ACM/releases/tag/v3.9.0) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+4. 🎉 Merged PR [#25](https://github.com/Floating-Ocean/OBot-ACM/pull/25) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+5. 🎉 Merged PR [#24](https://github.com/Floating-Ocean/OBot-ACM/pull/24) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
 
