@@ -18,11 +18,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/Floating-Ocean/OBot-ACM/pull/30#issuecomment-3062949014) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. 🗣 Commented on [#30](https://github.com/Floating-Ocean/OBot-ACM/pull/30#issuecomment-3061534111) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. 🎉 Merged PR [#29](https://github.com/Floating-Ocean/OBot-ACM/pull/29) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-4. 🗣 Commented on [#29](https://github.com/Floating-Ocean/OBot-ACM/pull/29#issuecomment-3057956607) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-5. 🗣 Commented on [#28](https://github.com/Floating-Ocean/OBot-ACM/pull/28#issuecomment-3045753071) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 💪 Opened PR [#49](https://github.com/qwedc001/Peeper-Board-Generator/pull/49) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. 🗣 Commented on [#30](https://github.com/Floating-Ocean/OBot-ACM/pull/30#issuecomment-3062949014) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. 🗣 Commented on [#30](https://github.com/Floating-Ocean/OBot-ACM/pull/30#issuecomment-3061534111) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+4. 🎉 Merged PR [#29](https://github.com/Floating-Ocean/OBot-ACM/pull/29) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+5. 🗣 Commented on [#29](https://github.com/Floating-Ocean/OBot-ACM/pull/29#issuecomment-3057956607) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
 
