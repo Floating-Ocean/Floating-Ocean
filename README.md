@@ -6,9 +6,15 @@
 - ✏️ I sometimes update something interesting on [floating-ocean.github.io](https://floating-ocean.github.io/).
 - 👯 I'm passionate about coding and excited to contribute. Nice to meet you!
 
-<p><img align="left" height="212" src="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16" alt="Floating-Ocean" /></p>
-
-<p><img align="center" height="212" src="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews" alt="Floating-Ocean" /></p>
+<p><picture>
+  <source height="212" media="(prefers-color-scheme: dark)" srcset="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16&theme=dark">
+  <source height="212" media="(prefers-color-scheme: light)" srcset="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16"/>
+  <img height="212" alt="Floating-Ocean" src="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16">
+</picture><picture>
+  <source height="212" media="(prefers-color-scheme: dark)" srcset="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews&theme=dark">
+  <source height="212" media="(prefers-color-scheme: light)" srcset="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews"/>
+  <img height="212" alt="Floating-Ocean" src="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews">
+</picture></p>
 
 ## Social Informations
 
@@ -25,4 +31,9 @@ You can also find my account on competitive programming platforms by searching f
 5. 🚀 Published release [v5.0.0-beta.1](https://github.com/Floating-Ocean/OBot-ACM/releases/tag/v5.0.0-beta.1) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Floating-Ocean/Floating-Ocean/anim/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Floating-Ocean/Floating-Ocean/anim/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Floating-Ocean/Floating-Ocean/anim/github-contribution-grid-snake.svg">
+</picture>
 
