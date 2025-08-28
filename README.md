@@ -1,6 +1,6 @@
 # Hi there 👋，I'm Floating-Ocean.
 
-**Acmer. Currently a 3rd year student at Fujian Normal University.**
+**Acmer. Currently a 4th year student at Fujian Normal University.**
 
 - 🔭 I’m currently majoring in Cyberspace Security.
 - ✏️ I sometimes update something interesting on [floating-ocean.github.io](https://floating-ocean.github.io/).
@@ -10,7 +10,7 @@
   <source height="212" media="(prefers-color-scheme: dark)" srcset="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16&theme=dark">
   <source height="212" media="(prefers-color-scheme: light)" srcset="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16"/>
   <img height="212" alt="Floating-Ocean" src="https://readme-stats-eta-flame.vercel.app/api/top-langs?username=Floating-Ocean&show_icons=true&locale=en&layout=donut&&hide=html&border_radius=16">
-</picture><picture>
+</picture>&nbsp;<picture>
   <source height="212" media="(prefers-color-scheme: dark)" srcset="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews&theme=dark">
   <source height="212" media="(prefers-color-scheme: light)" srcset="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews"/>
   <img height="212" alt="Floating-Ocean" src="https://readme-stats-eta-flame.vercel.app/api?username=Floating-Ocean&show_icons=true&locale=en&exclude_repo=Floating-Ocean.github.io&border_radius=16&rank_icon=github&show=reviews">
