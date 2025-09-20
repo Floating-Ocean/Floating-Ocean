@@ -24,12 +24,6 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/qwedc001/Peeper-Board-Generator/pull/55) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-2. ❌ Labeled PR [#55](undefined) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. ❌ Labeled PR [#55](undefined) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. 💪 Opened PR [#55](undefined) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. ❌ Assigned PR [#55](undefined) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-<!--END_SECTION:activity-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Floating-Ocean/Floating-Ocean/anim/github-contribution-grid-snake-dark.svg">
