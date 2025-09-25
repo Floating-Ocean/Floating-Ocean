@@ -1,6 +1,6 @@
 # Hi there 👋，I'm Floating-Ocean.
 
-**Retired ACMer. Currently a 0th year student at Xidian University.**
+**Retired ACMer. Currently a 0th year graduate student at Xidian University.**
 
 - 🔭 I’m currently majoring in Cyberspace Security.
 - ✏️ I sometimes update something interesting on [floating-ocean.github.io](https://floating-ocean.github.io/).
