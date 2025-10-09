@@ -24,7 +24,7 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](https://github.com/Floating-Ocean/OBot-ACM/pull/111) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 🗣 Commented on [#111](https://github.com/Floating-Ocean/OBot-ACM/pull/111#issuecomment-3381487928) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
 <picture>
