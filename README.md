@@ -24,8 +24,6 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Floating-Ocean/Git-Backup-Enc/pull/1#issuecomment-3409084099) in [Floating-Ocean/Git-Backup-Enc](https://github.com/Floating-Ocean/Git-Backup-Enc)
-<!--END_SECTION:activity-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Floating-Ocean/Floating-Ocean/anim/github-contribution-grid-snake-dark.svg">
