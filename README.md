@@ -24,9 +24,9 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#121](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. ❌ Labeled PR [#121](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. 💪 Opened PR [#121](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. ❌ Labeled PR [#123](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+2. 💪 Opened PR [#123](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. ❌ Assigned PR [#123](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 4. ❌ Assigned PR [#121](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 5. 🚀 Published release [v1.2.3 性能优化&小修小补](https://github.com/qwedc001/Peeper-Board-Generator/releases/tag/v1.2.3) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 <!--END_SECTION:activity-->
