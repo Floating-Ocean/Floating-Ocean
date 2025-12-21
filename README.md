@@ -24,9 +24,9 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#144](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. ❌ Merged PR [#143](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. ❌ Assigned PR [#144](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 🚀 Published release [v5.0.0-beta.7](https://github.com/Floating-Ocean/OBot-ACM/releases/tag/v5.0.0-beta.7) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+2. ❌ Merged PR [#144](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. ❌ Merged PR [#143](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 4. 🗣 Commented on [#6](https://github.com/Floating-Ocean/Git-Pull-Indep/pull/6#issuecomment-3536047016) in [Floating-Ocean/Git-Pull-Indep](https://github.com/Floating-Ocean/Git-Pull-Indep)
 5. ❌ Labeled PR [#130](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
