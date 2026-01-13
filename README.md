@@ -24,11 +24,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. 🚀 Published release [v0.0.9](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.9) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
-3. ℹ️ Labeled PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 🎉 Merged PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+2. ℹ️ Labeled PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. 🚀 Published release [v0.0.9](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.9) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
 4. ℹ️ Labeled PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-5. 💪 Opened PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+5. ℹ️ Labeled PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
 <picture>
