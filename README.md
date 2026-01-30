@@ -24,11 +24,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#42](https://github.com/qwedc001/Peeper-Board-Generator/issues/42) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-2. ℹ️ Assigned issue [#42](https://github.com/qwedc001/Peeper-Board-Generator/issues/42) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. ℹ️ Labeled PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. ℹ️ Labeled PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. 💪 Opened PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+1. 🎉 Merged PR [#64](https://github.com/qwedc001/Peeper-Board-Generator/pull/64) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. 🎉 Merged PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. ℹ️ Labeled PR [#63](https://github.com/qwedc001/Peeper-Board-Generator/pull/63) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+4. ℹ️ Labeled PR [#64](https://github.com/qwedc001/Peeper-Board-Generator/pull/64) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+5. ℹ️ Assigned PR [#64](https://github.com/qwedc001/Peeper-Board-Generator/pull/64) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 <!--END_SECTION:activity-->
 
 <picture>
