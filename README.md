@@ -24,10 +24,10 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.0.0-beta.8](https://github.com/Floating-Ocean/OBot-ACM/releases/tag/v5.0.0-beta.8) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. 🎉 Merged PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. ℹ️ Labeled PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-4. 🚀 Published release [v0.0.9](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.9) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
+1. ℹ️ Labeled PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. ℹ️ Labeled PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. 💪 Opened PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+4. ℹ️ Assigned PR [#62](https://github.com/qwedc001/Peeper-Board-Generator/pull/62) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 5. ℹ️ Labeled PR [#155](https://github.com/Floating-Ocean/OBot-ACM/pull/155) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
