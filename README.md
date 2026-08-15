@@ -24,7 +24,7 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/Floating-Ocean/OBot-ACM/pull/202) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 🚀 Published release [v0.0.10](https://github.com/Floating-Ocean/Easy-Pixie/releases/tag/v0.0.10) in [Floating-Ocean/Easy-Pixie](https://github.com/Floating-Ocean/Easy-Pixie)
 2. ℹ️ Labeled PR [#202](https://github.com/Floating-Ocean/OBot-ACM/pull/202) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 3. 💪 Opened PR [#202](https://github.com/Floating-Ocean/OBot-ACM/pull/202) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 4. ℹ️ Assigned PR [#202](https://github.com/Floating-Ocean/OBot-ACM/pull/202) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
