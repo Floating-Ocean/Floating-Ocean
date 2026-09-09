@@ -1,8 +1,8 @@
 # Hi there 👋，I'm Floating-Ocean.
 
-**Retired ACMer. Currently a 0th year graduate student at Xidian University.**
+**Retired ACMer. Currently a 1st year graduate student at Xidian University.**
 
-- 🔭 I’m currently majoring in Cyberspace Security.
+- 🔭 My current research focus is AI agent security.
 - ✏️ I sometimes update something interesting on [floating-ocean.github.io](https://floating-ocean.github.io/).
 - 👯 I'm passionate about coding and excited to contribute. Nice to meet you!
 
@@ -18,7 +18,7 @@
 
 ## Social Informations
 
-If you'd like to get in touch, feel free to email me at [sea113290980@gmail.com](mailto:sea113290980@gmail.com).
+If you'd like to get in touch, feel free to email me at [sea113290980@gmail.com](mailto:sea113290980@gmail.com). I might be a bit slow to respond.
 
 You can also find my account on competitive programming platforms by searching for "FloatingOcean".
 
