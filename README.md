@@ -24,11 +24,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/REDDRAGON-HL/Rhythm-Analyzer/pull/3) in [REDDRAGON-HL/Rhythm-Analyzer](https://github.com/REDDRAGON-HL/Rhythm-Analyzer)
-2. ℹ️ Labeled PR [#80](https://github.com/qwedc001/Peeper-Board-Generator/pull/80) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. 💪 Opened PR [#80](https://github.com/qwedc001/Peeper-Board-Generator/pull/80) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. ℹ️ Labeled PR [#78](https://github.com/qwedc001/Peeper-Board-Generator/pull/78) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. ℹ️ Assigned PR [#78](https://github.com/qwedc001/Peeper-Board-Generator/pull/78) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+1. 🗣 Commented on [#4](https://github.com/REDDRAGON-HL/Rhythm-Analyzer/issues/4#issuecomment-6355597695) in [REDDRAGON-HL/Rhythm-Analyzer](https://github.com/REDDRAGON-HL/Rhythm-Analyzer)
+2. 🎉 Merged PR [#3](https://github.com/REDDRAGON-HL/Rhythm-Analyzer/pull/3) in [REDDRAGON-HL/Rhythm-Analyzer](https://github.com/REDDRAGON-HL/Rhythm-Analyzer)
+3. ℹ️ Labeled PR [#80](https://github.com/qwedc001/Peeper-Board-Generator/pull/80) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+4. 💪 Opened PR [#80](https://github.com/qwedc001/Peeper-Board-Generator/pull/80) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+5. ℹ️ Labeled PR [#78](https://github.com/qwedc001/Peeper-Board-Generator/pull/78) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 <!--END_SECTION:activity-->
 
 <picture>
