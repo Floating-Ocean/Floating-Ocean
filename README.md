@@ -24,11 +24,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/Floating-Ocean/OBot-ACM/pull/221) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. ℹ️ Labeled PR [#221](https://github.com/Floating-Ocean/OBot-ACM/pull/221) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. 💪 Opened PR [#221](https://github.com/Floating-Ocean/OBot-ACM/pull/221) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-4. ℹ️ Assigned PR [#221](https://github.com/Floating-Ocean/OBot-ACM/pull/221) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-5. ❌ Closed PR [#219](https://github.com/Floating-Ocean/OBot-ACM/pull/219) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 🗣 Commented on [#10](https://github.com/qwedc001/OBot-ACM-next/pull/10#issuecomment-6575497158) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+2. 🗣 Commented on [#9](https://github.com/qwedc001/OBot-ACM-next/pull/9#issuecomment-6574005714) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+3. 🎉 Merged PR [#221](https://github.com/Floating-Ocean/OBot-ACM/pull/221) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+4. ℹ️ Labeled PR [#221](https://github.com/Floating-Ocean/OBot-ACM/pull/221) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+5. 💪 Opened PR [#221](https://github.com/Floating-Ocean/OBot-ACM/pull/221) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
 
 <picture>
