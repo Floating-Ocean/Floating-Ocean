@@ -24,11 +24,11 @@ You can also find my account on competitive programming platforms by searching f
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/qwedc001/Peeper-Board-Generator/pull/81#issuecomment-6600476180) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-2. 🗣 Commented on [#81](https://github.com/qwedc001/Peeper-Board-Generator/pull/81#issuecomment-6600238311) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. 🗣 Commented on [#81](https://github.com/qwedc001/Peeper-Board-Generator/pull/81#issuecomment-6600214918) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. 🗣 Commented on [#81](https://github.com/qwedc001/Peeper-Board-Generator/pull/81#issuecomment-6600019219) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. ℹ️ Labeled PR [#81](https://github.com/qwedc001/Peeper-Board-Generator/pull/81) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+1. ℹ️ Labeled PR [#82](https://github.com/qwedc001/Peeper-Board-Generator/pull/82) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. 💪 Opened PR [#82](https://github.com/qwedc001/Peeper-Board-Generator/pull/82) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. ℹ️ Assigned PR [#82](https://github.com/qwedc001/Peeper-Board-Generator/pull/82) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+4. 🗣 Commented on [#81](https://github.com/qwedc001/Peeper-Board-Generator/pull/81#issuecomment-6600476180) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+5. 🗣 Commented on [#81](https://github.com/qwedc001/Peeper-Board-Generator/pull/81#issuecomment-6600238311) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 <!--END_SECTION:activity-->
 
 <picture>
